@@ -20,6 +20,7 @@ jobs:
  
       - name: Instalar dependencias 
         run: | 
-pip install pytest - name: Ejecutar pruebas 
-run: | 
-pytest -v 
+            pip install pytest 
+      - name: Ejecutar pruebas
+        run: | 
+            pytest -v 
