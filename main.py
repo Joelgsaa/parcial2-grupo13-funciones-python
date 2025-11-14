@@ -1,5 +1,5 @@
-#Archivo principal del grupo
-#Cada integrante deberá agregar su función en un archivo independiente
+# Archivo principal del grupo
+# Cada integrante deberá agregar su función en un archivo independiente
 from funciones import *
 
 if name == "main":
