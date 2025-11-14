@@ -1,4 +1,4 @@
-#funcion de dividir Tevez
+#funcion test de dividir Tevez Lucas
 from funciones.dividir_tevez import dividir_tevez
 
 def test_dividir():
